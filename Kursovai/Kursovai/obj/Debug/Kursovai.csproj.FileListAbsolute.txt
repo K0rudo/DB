@@ -1,0 +1,13 @@
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\bin\Debug\Kursovai.exe.config
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\bin\Debug\Kursovai.exe
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\bin\Debug\Kursovai.pdb
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.csproj.AssemblyReference.cache
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.Properties.Resources.resources
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.csproj.GenerateResource.cache
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.csproj.CoreCompileInputs.cache
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.exe
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.pdb
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\bin\Debug\Database.mdf
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\bin\Debug\Database_log.ldf
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.Form1.resources
+C:\Users\Vasya\source\repos\Kursovai\Kursovai\obj\Debug\Kursovai.Form2.resources
